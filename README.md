@@ -159,3 +159,7 @@ Le programme gère et affiche les erreurs suivantes :
 - Le rendu doit être propre, fluide, et sans artefacts visuels.
 
 ---
+
+## Authors
+- Arthur Oger | 42: aoger | GitHub: arthoge
+- Alexandre Scordilis | 42: ascordil | GitHub: lachignol
