@@ -161,5 +161,5 @@ Le programme gère et affiche les erreurs suivantes :
 ---
 
 ## Authors
-- Arthur Oger | 42: aoger | GitHub: arthoge
+- Arthur Oger | 42: aoger | GitHub: ![arthoge](https://github.com/arthoge)
 - Alexandre Scordilis | 42: ascordil | GitHub: lachignol
