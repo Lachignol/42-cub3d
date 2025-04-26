@@ -6,7 +6,7 @@
 
 **Cub3D** est un projet graphique inspiré de *Wolfenstein 3D*. Il consiste à développer un **moteur de rendu 3D** basé sur la technique du **raycasting**, à partir d'une carte 2D. Ce projet vous initie à la programmation graphique, à la gestion d’événements en temps réel et à la création d’un mini moteur de jeu.
 
-Dans sa version bonus, le projet ajoute une mini-carte, un affichage plus riche, des interactions via la souris, et des effets visuels supplémentaires – **sans la gestion de portes**, conformément à la consigne.
+Dans sa version bonus, le projet ajoute une mini-carte, un affichage plus riche, des interactions via la souris, et des effets visuels supplémentaires.
 
 ---
 
