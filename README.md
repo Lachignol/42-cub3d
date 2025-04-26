@@ -60,7 +60,7 @@ C 225,30,0
 
 ---
 
-## 🧩 Bonus inclus (hors portes)
+## 🧩 Bonus inclus
 
 - ✅ **Mini-carte** : affichée en haut à gauche, représentant la carte 2D en direct.
 - ✅ **Textures de sol et plafond** ou effets visuels pour améliorer l’immersion.
